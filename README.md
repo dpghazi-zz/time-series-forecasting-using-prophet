@@ -1,4 +1,4 @@
-# Time-Series-Forecasting-using-Prophet
+# Time Series Forecasting using Prophet
 - Facebook Prophet is an open source tool used for time series forecasting
 - Training time-series prediction models to predict future avocado prices
 - Key Concepts
