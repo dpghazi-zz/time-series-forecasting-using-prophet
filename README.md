@@ -9,3 +9,4 @@
   - Assessed trained model performance
 - Source: https://facebook.github.io/prophet/ & https://github.com/facebook/prophet
 - Run in Google Colab: https://colab.research.google.com/drive/1c45MnEY-qof4wcnFv0ISkixqZnSFUjcA?usp=sharing
+- [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1c45MnEY-qof4wcnFv0ISkixqZnSFUjcA?usp=sharing)
