@@ -23,4 +23,4 @@
 * Seaborn
 
 ## Featured Notebook
-* [Wine Class Classification](https://dpghazi.github.io/projects/prophet_predictive_analysis.html)
+* [Time Series Forecasting using Prophet](https://dpghazi.github.io/projects/prophet_predictive_analysis.html)
