@@ -1,5 +1,5 @@
 # Time Series Forecasting using Prophet 
-# [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1c45MnEY-qof4wcnFv0ISkixqZnSFUjcA?usp=sharing)
+# [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)(https://dpghazi.github.io/projects/prophet_predictive_analysis.html)
 
 ## Project Description
 * Facebook Prophet is an open source tool used for time series forecasting
@@ -23,4 +23,4 @@
 * Seaborn
 
 ## Featured Notebook
-* [Wine Class Classification](https://dpghazi.github.io/projects/wine-classification-ml.html)
+* [Wine Class Classification](https://dpghazi.github.io/projects/prophet_predictive_analysis.html)
