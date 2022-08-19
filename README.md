@@ -1,5 +1,4 @@
 # Time Series Forecasting using Prophet 
-# [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://dpghazi.github.io/projects/prophet_predictive_analysis.html)
 
 ## Project Description
 * Facebook Prophet is an open source tool used for time series forecasting
