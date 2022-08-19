@@ -14,13 +14,7 @@
 * Source: https://facebook.github.io/prophet/ & https://github.com/facebook/prophet
 
 ### Tools & Libraries
-* Python
-* Jupyter
-* Prophet 
-* Pandas
-* Numpy
-* Matplotlib
-* Seaborn
+* Python (Prophet, Pandas, NumPy, Matplotlib, Seaborn)
 
 ## Featured Notebook
 * [Time Series Forecasting using Prophet](https://dpghazi.github.io/projects/prophet_predictive_analysis.html)
