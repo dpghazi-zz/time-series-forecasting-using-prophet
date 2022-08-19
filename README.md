@@ -5,12 +5,10 @@
 * Training time-series prediction models to predict future avocado prices
 
 ### Overview
-* Theory and intuition behind Facebook Prophet Time series prediction tool
 * Built a predictive model to forecast future avocado prices
 * Applied seaborn and matplotlib to perform images visualization
 * Compiled and fit forecasting model to training data
 * Assessed trained model performance
-* Source: https://facebook.github.io/prophet/ & https://github.com/facebook/prophet
 
 ### Tools & Libraries
 * Python (Prophet, Pandas, NumPy, Matplotlib, Seaborn)
